@@ -1,0 +1,8 @@
+command_id: DAC7.C7.220123|f=2020-
+test_cases:
+- expected_values:
+    GWAG_TID_FL: 561566813
+  response: 18DAF1C7076201232178D45D
+- expected_values:
+    GWAG_TID_FL: 561566828
+  response: 18DAF1C7076201232178D46C
