@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Jeep_Grand_Wagoneer"
+
+generations:
+  - name: "SJ"
+    start_year: 1984
+    end_year: 1991
+    description: "The full-size SJ Wagoneer sold as the Grand Wagoneer."
+  - name: "WS"
+    start_year: 2022
+    end_year: null
+    description: "The full-size SUV built alongside the Wagoneer on the Ram 1500 platform, with the 6.4 L V8 and the 3.0 L Hurricane straight-six."

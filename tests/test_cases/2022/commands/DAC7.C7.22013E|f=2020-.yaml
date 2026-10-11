@@ -1,0 +1,50 @@
+command_id: DAC7.C7.22013E|f=2020-
+test_cases:
+- expected_values:
+    GWAG_TP_RL: null
+    GWAG_TT_RL: null
+  response: |-
+    18DAF1C7100962013E000000
+    18DAF1C721000000
+- expected_values:
+    GWAG_TP_RL: 2.624
+    GWAG_TT_RL: 7
+  response: |-
+    18DAF1C7100962013E0A4039
+    18DAF1C72100035C
+- expected_values:
+    GWAG_TP_RL: 2.624
+    GWAG_TT_RL: 7
+  response: |-
+    18DAF1C7100962013E0A4039
+    18DAF1C721150B5C
+- expected_values:
+    GWAG_TP_RL: 2.624
+    GWAG_TT_RL: 7
+  response: |-
+    18DAF1C7100962013E0A4039
+    18DAF1C7217F0B5C
+- expected_values:
+    GWAG_TP_RL: 2.624
+    GWAG_TT_RL: 8
+  response: |-
+    18DAF1C7100962013E0A403A
+    18DAF1C721FF0B5C
+- expected_values:
+    GWAG_TP_RL: 2.784
+    GWAG_TT_RL: 19
+  response: |-
+    18DAF1C7100962013E0AE045
+    18DAF1C72100C15C
+- expected_values:
+    GWAG_TP_RL: 2.816
+    GWAG_TT_RL: 21
+  response: |-
+    18DAF1C7100962013E0B0047
+    18DAF1C7210D0B5C
+- expected_values:
+    GWAG_TP_RL: 2.944
+    GWAG_TT_RL: 35
+  response: |-
+    18DAF1C7100962013E0B8055
+    18DAF1C72100515C

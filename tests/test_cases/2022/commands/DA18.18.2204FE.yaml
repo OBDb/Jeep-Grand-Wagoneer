@@ -1,0 +1,14 @@
+command_id: DA18.18.2204FE
+test_cases:
+- expected_values:
+    GWAG_ATF_T_4THGEN: 84
+  response: 18DAF118066204FE7C8485
+- expected_values:
+    GWAG_ATF_T_4THGEN: 85
+  response: 18DAF118066204FE7D8385
+- expected_values:
+    GWAG_ATF_T_4THGEN: 95
+  response: 18DAF118066204FE878D8E
+- expected_values:
+    GWAG_ATF_T_4THGEN: 95
+  response: 18DAF118066204FE878D8F

@@ -1,0 +1,56 @@
+command_id: DAC7.C7.22013F|f=2020-
+test_cases:
+- expected_values:
+    GWAG_TP_RR: null
+    GWAG_TT_RR: null
+  response: |-
+    18DAF1C7100962013F000000
+    18DAF1C721000000
+- expected_values:
+    GWAG_TP_RR: 2.624
+    GWAG_TT_RR: 8
+  response: |-
+    18DAF1C7100962013F0A403A
+    18DAF1C72100C35D
+- expected_values:
+    GWAG_TP_RR: 2.624
+    GWAG_TT_RR: 8
+  response: |-
+    18DAF1C7100962013F0A403A
+    18DAF1C7210B0B5D
+- expected_values:
+    GWAG_TP_RR: 2.624
+    GWAG_TT_RR: 9
+  response: |-
+    18DAF1C7100962013F0A403B
+    18DAF1C721400B5D
+- expected_values:
+    GWAG_TP_RR: 2.624
+    GWAG_TT_RR: 9
+  response: |-
+    18DAF1C7100962013F0A403B
+    18DAF1C721FF0B5D
+- expected_values:
+    GWAG_TP_RR: 2.784
+    GWAG_TT_RR: 19
+  response: |-
+    18DAF1C7100962013F0AE045
+    18DAF1C721180B5D
+- expected_values:
+    GWAG_TP_RR: 2.816
+    GWAG_TT_RR: 22
+  response: |-
+    18DAF1C7100962013F0B0048
+    18DAF1C72100C35E
+- expected_values:
+    GWAG_TP_RR: 2.816
+    GWAG_TT_RR: 25
+  response: |-
+    18DAF1C7100962013F0B004B
+    18DAF1C72100C15D
+- expected_values:
+    GWAG_TP_RR: 2.976
+    GWAG_TT_RR: 34
+  response: |-
+    18DAF1C7100962013F0BA054
+    18DAF1C72100C15E
