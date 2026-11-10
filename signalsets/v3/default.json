@@ -92,7 +92,7 @@
 { "hdr": "DA18", "rax": "18", "cmd": {"22": "051A"}, "freq": 0.5, "filter": { "from": 2020 }, "dbgfilter": { "to": 2021, "from": 2023 },
   "signals": [
     {"id": "GWAG_GEAR_DESIRED", "path": "Transmission", "fmt": {          "len": 4, "max": 15, "nullmin": 0, "nullmax": 13, "unit": "scalar" }, "name": "Desired gear"},
-    {"id": "GWAG_GEAR_CURRENT", "path": "Transmission", "fmt": {"bix": 4, "len": 4, "max": 15, "nullmin": 0, "nullmax": 13, "unit": "scalar" }, "name": "Current gear"}
+    {"id": "GWAG_GEAR_CURRENT", "path": "Transmission", "fmt": {"bix": 4, "len": 4, "max": 15, "nullmin": 0, "nullmax": 13, "unit": "scalar" }, "name": "Current gear", "suggestedMetric": "gear"}
   ]},
 { "hdr": "DA18", "rax": "18", "dbg": true, "cmd": {"22": "1018"}, "freq": 2,
   "signals": [
